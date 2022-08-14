@@ -25,7 +25,7 @@
   <li>🌎 Ingeniera Geóloga </li>
 </ul>
 
-<h4 align="left"><strong>Conectate conmigo:</strong></h4>
+<h4 align="left"><strong>Conecta conmigo:</strong></h4>
 <a href="https://www.linkedin.com/in/andrea-leal-639b2662" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a><a href="mailto:andrealealrojas@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a><a href="https://twitter.com/Andrealealr" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a> 
     
 
