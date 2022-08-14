@@ -21,7 +21,7 @@
 <ul>
   <li>📍 Santiago 🇨🇱</li>
   <li>👩🏻 Tengo 31 años.</li>
-  <li>💻 Frontend web developer Trainee... En busqueda de desafíos laborales🏆🎯🔋</li>
+  <li>💻 Frontend web developer Trainee... En búsqueda de desafíos laborales🎯</li>
   <li>🌎Ingeniera Geóloga</li>
 </ul>
 
