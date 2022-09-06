@@ -20,7 +20,7 @@
 <h4><strong>Sobre mi:</strong></h4>
 <ul>
   <li>📍 Santiago 🇨🇱</li>
-  <li>👩🏻 Tengo 31 años.</li>
+  <li>👩🏻 Tengo 32 años.</li>
   <li>💻 Frontend Developer Incubadora Desafío Latam🎯</li>
   <li>🌎 Ingeniera Geóloga </li>
 </ul>
