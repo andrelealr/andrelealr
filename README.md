@@ -22,6 +22,7 @@
   <li>📍 Santiago 🇨🇱</li>
   <li>👩🏻 Tengo 32 años.</li>
   <li>💻 Frontend Developer Incubadora Desafío Latam🎯</li>
+  <li>💻 Ayudante de bootcamp frontend Edutecno🎯</li>
   <li>🌎 Ingeniera Geóloga </li>
 </ul>
 
